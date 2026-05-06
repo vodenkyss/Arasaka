@@ -1,0 +1,10 @@
+{
+  "Name": "Tomas",
+  "PasswordHash": "hsSWsIilddaakhWe4Gv7Tewz1kmltEM9LIyV9AOmfWk=",
+  "CurrentRoomId": "strecha",
+  "Inventory": [
+    "energetak",
+    "paklic"
+  ],
+  "MaxInventoryCapacity": 5
+}

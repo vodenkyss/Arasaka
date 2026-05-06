@@ -1,0 +1,10 @@
+{
+  "Name": "StaryHacker",
+  "PasswordHash": "yB9FH7TeXGiRuQ\u002BXPLe78E4C6d/oaxV7EWdlR4EyNfM=",
+  "CurrentRoomId": "vyslechovka",
+  "Inventory": [],
+  "MaxInventoryCapacity": 5,
+  "AttackBonus": 0,
+  "HP": 100,
+  "MaxHP": 100
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "Result": "paklic",
+    "Ingredients": ["drat", "baterie"],
+    "Description": "Improvizovaný paklíč z drátu a baterie"
+  },
+  {
+    "Result": "molotov",
+    "Ingredients": ["energetak", "nuz"],
+    "Description": "Zápalná láhev - způsobuje 30 poškození"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "Id": "vyslechovka",
+    "Name": "Vyslechova mistnost",
+    "Description": "Mala mistnost se stolem a zarovkou. Dvere ven jsou pootevrene. Na zemi lezi starej drat.",
+    "Exits": { "ven": "chodba_jih" },
+    "Items": [ "drat" ],
+    "NPCs": []
+  },
+  {
+    "Id": "chodba_jih",
+    "Name": "Jizni chodba suterenu",
+    "Description": "Chladna chodba. Na zapad je udrzba, na sever pokracuje chodba.",
+    "Exits": { "zpet": "vyslechovka", "sever": "krizovatka_suterenu", "zapad": "udrzba" },
+    "Items": [],
+    "NPCs": []
+  },
+  {
+    "Id": "udrzba",
+    "Name": "Mistnost udrzby",
+    "Description": "Vsude jsou trubky a regaly. V rohu v krabici vidis baterii.",
+    "Exits": { "vychod": "chodba_jih" },
+    "Items": [ "baterie" ],
+    "NPCs": [
+      {
+        "Id": "potkan",
+        "Name": "Zmutovany potkan",
+        "HP": 15,
+        "Attack": 3,
+        "Dialogue": "Kssseee!",
+        "Reward": "syreček"
+      }
+    ]
+  },
+  {
+    "Id": "krizovatka_suterenu",
+    "Name": "Krizovatka suterenu",
+    "Description": "Tady se chodba deli. Na vychod je sklad, na sever jsou schody do patra.",
+    "Exits": { "jih": "chodba_jih", "vychod": "sklad", "nahoru": "kancelare_vstup" },
+    "Items": [],
+    "NPCs": []
+  },
+  {
+    "Id": "sklad",
+    "Name": "Sklad",
+    "Description": "Regaly plne haraburdi. Sedí tu uklizeč a pije kafe.",
+    "Exits": { "zapad": "krizovatka_suterenu" },
+    "Items": [ "energetak" ],
+    "NPCs": [
+      {
+        "Id": "uklizec",
+        "Name": "Uklizec Josef",
+        "HP": 50,
+        "Attack": 2,
+        "Dialogue": "Cesta nahoru je zamcena. Musis si vyrobit paklic, jinak se pres ty dvere nedostanes. Drat a baterie se ti budou hodit!",
+        "Reward": ""
+      }
+    ]
+  },
+  {
+    "Id": "kancelare_vstup",
+    "Name": "Vstup do kancelari",
+    "Description": "Luxusnejsi prostory. Na sever je open space, na vychod je zbrojnice.",
+    "Exits": { "dolu": "krizovatka_suterenu", "sever": "open_space", "vychod": "zbrojnice" },
+    "LockedExits": {
+      "sever": "paklic",
+      "vychod": "klic"  
+    },
+    "Items": [],
+    "NPCs": []
+  },
+  {
+    "Id": "zbrojnice",
+    "Name": "Zbrojnice",
+    "Description": "Mistnost plna zbrani, ale vetsina je v trezorech. Na stole lezi nuz.",
+    "Exits": { "zapad": "kancelare_vstup" },
+    "Items": [ "nuz" ],
+    "NPCs": [
+      {
+        "Id": "robot",
+        "Name": "Bezpecnostni bot",
+        "HP": 40,
+        "Attack": 8,
+        "Dialogue": "IDENTIFIKUJTE SE!",
+        "Reward": "cip"
+      }
+    ]
+  },
+  {
+    "Id": "open_space",
+    "Name": "Open Space kancelare",
+    "Description": "Rady stolu a pocitacu. Na sever je kancelar reditele, na zapad je serverovna.",
+    "Exits": { "jih": "kancelare_vstup", "sever": "kancelar_reditele", "zapad": "serverovna" },
+    "Items": [ "klic" ],
+    "NPCs": [
+      {
+        "Id": "sekretarka",
+        "Name": "Sekretarka",
+        "HP": 20,
+        "Attack": 1,
+        "Dialogue": "Pan ředitel nemá čas... Ale slyšela jsem, že když zkombinuješ ten náš silný 'energetak' s 'nuz' ze zbrojnice, dá se z toho vyrobit molotov. To by se ti proti robotům mohlo hodit!",
+        "Reward": ""
+      }
+    ]
+  },
+  {
+    "Id": "serverovna",
+    "Name": "Serverovna",
+    "Description": "Hučení ventilátorů a blikající diody. Tady jsou ta data!",
+    "Exits": { "vychod": "open_space" },
+    "Items": [ "data" ],
+    "NPCs": []
+  },
+  {
+    "Id": "kancelar_reditele",
+    "Name": "Kancelar reditele",
+    "Description": "Velky stul z masivu. Za nim sedi sam reditel Arasaky. Na sever je balkon s heliportem.",
+    "Exits": { "jih": "open_space", "sever": "strecha" },
+    "LockedExits": { "sever": "klic_od_vrtulniku" }, 
+    "Items": [],
+    "NPCs": [
+      {
+        "Id": "reditel",
+        "Name": "Reditel",
+        "HP": 60,
+        "Attack": 12,
+        "Dialogue": "Tvoje cesta tady konci, hackere!",
+        "Reward": "klic_od_vrtulniku"
+      }
+    ]
+  },
+  {
+    "Id": "strecha",
+    "Name": "Strecha - Heliport",
+    "Description": "Fouka vitr, vrtulnik ma roztocene rotory. Pokud mas data, nastup!",
+    "Exits": { "vrtulnik": "vitezstvi", "zpet": "kancelar_reditele" },
+    "LockedExits": { "vrtulnik": "data" },
+    "Items": [],
+    "NPCs": []
+  },
+  {
+    "Id": "vitezstvi",
+    "Name": "VRTULNIK - KONEC HRY",
+    "Description": "Letis nad mestem, data mas u sebe. Vyhral jsi!",
+    "Exits": {},
+    "Items": [],
+    "NPCs": []
+  }
+]

@@ -1,0 +1,379 @@
+[2026-04-06 19:04:00] Herní svět načten: 2 místností.
+[2026-04-06 19:04:00] Server spuštěn na portu 8888
+[2026-04-06 19:04:30] Vytvořen nový účet: Vodenkys
+[2026-04-06 19:04:30] Chyba u hráče Vodenkys: The given key 'vyslechovka' was not present in the dictionary.
+[2026-04-06 19:04:30] Vodenkys se odpojil.
+[2026-04-06 19:09:36] Herní svět načten: 2 místností.
+[2026-04-06 19:09:36] Server spuštěn na portu 8888
+[2026-04-06 19:10:18] Herní svět načten: 2 místností.
+[2026-04-06 19:10:18] Server spuštěn na portu 8888
+[2026-04-06 19:10:34] Hráč Vodenkys se přihlásil.
+[2026-04-06 19:10:55] Vodenkys vzal id_karta v vyslechovka
+[2026-04-06 20:31:54] Herní svět načten: 3 místností.
+[2026-04-06 20:31:54] Server spuštěn na portu 8888
+[2026-04-06 20:32:06] Hráč Vodenkys se přihlásil.
+[2026-04-06 20:33:13] Hráč Vodenkys dokončil hru!
+[2026-04-07 13:28:36] Herní svět načten: 4 místností.
+[2026-04-07 13:28:36] Server spuštěn na portu 8888
+[2026-04-07 13:28:55] Hráč Vodenkys se přihlásil.
+[2026-04-07 13:29:33] Herní svět načten: 4 místností.
+[2026-04-07 13:29:33] Server spuštěn na portu 8888
+[2026-04-07 13:29:52] Vytvořen nový účet: honzik
+[2026-04-07 13:31:53] [KŘIK] honzik: ahoj
+[2026-04-07 13:32:17] Hráč honzik dokončil hru!
+[2026-04-09 09:30:51] Herní svět načten: 4 místností.
+[2026-04-09 09:30:51] Server spuštěn na portu 8888
+[2026-04-09 09:31:05] Vytvořen nový účet: Tomas
+[2026-04-09 09:35:50] Hráč Tomas dokončil hru!
+[2026-04-17 09:36:33] Herní svět načten: 4 místností.
+[2026-04-17 09:36:33] Server spuštěn na portu 8888
+[2026-04-17 09:36:51] Vytvořen nový účet: janca
+[2026-04-17 09:45:53] Herní svět načten: 12 místností.
+[2026-04-17 09:45:53] Server spuštěn na portu 8888
+[2026-04-17 09:46:13] Hráč janca se přihlásil.
+[2026-04-17 09:51:43] Hráč janca dokončil hru!
+[2026-04-17 09:55:31] Herní svět načten: 12 místností.
+[2026-04-17 09:55:31] Server spuštěn na portu 8888
+[2026-05-06 16:51:55] Herní svět načten: 12 místností.
+[2026-05-06 16:51:55] CHYBA při načítání receptů: Could not find file '/Users/martinvodenka/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/crafting.json'.
+[2026-05-06 16:51:55] Server spuštěn na portu 8888
+[2026-05-06 16:52:11] Vytvořen nový účet: vodenka
+[2026-05-06 16:52:11] Hráč vodenka se připojil.
+[2026-05-06 16:52:25] [vodenka] příkaz: pomoc
+[2026-05-06 16:52:42] [vodenka] příkaz: prozkoumej
+[2026-05-06 16:52:48] [vodenka] příkaz: vezmi drat
+[2026-05-06 16:52:54] [vodenka] příkaz: jdi ven
+[2026-05-06 16:53:00] [vodenka] příkaz: prozkoumej
+[2026-05-06 17:12:14] Herní svět načten: 12 místností.
+[2026-05-06 17:12:14] CHYBA při načítání receptů: Could not find file '/Users/martinvodenka/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/crafting.json'.
+[2026-05-06 17:12:14] Server spuštěn na portu 8888
+[2026-05-06 17:12:24] Hráč vodenka se přihlásil.
+[2026-05-06 17:12:24] Hráč vodenka se připojil.
+[2026-05-06 17:12:30] [vodenka] příkaz: jdi sever
+[2026-05-06 17:12:34] [vodenka] příkaz: jdi nahoru
+[2026-05-06 17:12:42] [vodenka] příkaz: jdi sever
+[2026-05-06 17:12:48] [vodenka] příkaz: jdi dolu
+[2026-05-06 17:12:58] [vodenka] příkaz: jdi vychod
+[2026-05-06 17:13:06] [vodenka] příkaz: vezmi energetak
+[2026-05-06 17:13:10] [vodenka] příkaz: inventar
+[2026-05-06 17:13:22] [vodenka] příkaz: mluv Josef
+[2026-05-06 17:13:30] [vodenka] příkaz: mluv Uklizec Josef
+[2026-05-06 17:13:45] [vodenka] příkaz: vyrobit paklic
+[2026-05-06 17:13:52] [vodenka] příkaz: pomoc
+[2026-05-06 17:13:59] [vodenka] příkaz: vyrob paklic
+[2026-05-06 17:26:40] Herní svět načten: 12 místností.
+[2026-05-06 17:26:40] CHYBA při načítání receptů: Could not find file '/Users/martinvodenka/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/crafting.json'.
+[2026-05-06 17:26:40] Server spuštěn na portu 8888
+[2026-05-06 17:26:49] Hráč vodenka se přihlásil.
+[2026-05-06 17:26:49] Hráč vodenka se připojil.
+[2026-05-06 17:26:55] [vodenka] příkaz: pomoc
+[2026-05-06 17:27:03] [vodenka] příkaz: utoc uklizec josef
+[2026-05-06 17:27:16] [vodenka] příkaz: utoc uklizec josef
+[2026-05-06 17:27:26] [vodenka] příkaz: utoc uklizec josef
+[2026-05-06 17:27:32] [vodenka] příkaz: utoc uklizec josef
+[2026-05-06 17:27:38] [vodenka] příkaz: utoc uklizec josef
+[2026-05-06 17:27:44] [vodenka] příkaz: prozkoumej
+[2026-05-06 17:27:56] [vodenka] příkaz: vezmi energetak
+[2026-05-06 17:28:03] [vodenka] příkaz: jdi zapad
+[2026-05-06 17:28:13] [vodenka] příkaz: jdi nahoru
+[2026-05-06 17:28:19] [vodenka] příkaz: jdi zbrojnice
+[2026-05-06 17:28:24] [vodenka] příkaz: jdi vychod
+[2026-05-06 17:28:31] [vodenka] příkaz: vezmi nuz
+[2026-05-06 17:28:41] [vodenka] příkaz: mluv bezpecnostni bot
+[2026-05-06 17:28:51] [vodenka] příkaz: utoc bezpecnostni bot
+[2026-05-06 17:29:01] [vodenka] příkaz: utoc bezpecnostni bot
+[2026-05-06 17:29:07] [vodenka] příkaz: prozkoumej
+[2026-05-06 17:29:10] [vodenka] příkaz: vezmi cip
+[2026-05-06 17:29:12] [vodenka] příkaz: inventar
+[2026-05-06 17:29:20] [vodenka] příkaz: vyrob paklic
+[2026-05-06 17:29:34] [vodenka] příkaz: prozkoumej
+[2026-05-06 17:29:40] [vodenka] příkaz: jdi zapad
+[2026-05-06 17:29:44] [vodenka] příkaz: jdi sever
+[2026-05-06 17:29:50] [vodenka] příkaz: jdi dolu
+[2026-05-06 17:29:59] [vodenka] příkaz: jdi sklad
+[2026-05-06 17:30:09] [vodenka] příkaz: jdi jih
+[2026-05-06 17:30:26] [vodenka] příkaz: jdi udrzba
+[2026-05-06 17:30:32] [vodenka] příkaz: jdi zapad
+[2026-05-06 17:30:45] [vodenka] příkaz: mluv zmutovany potkan
+[2026-05-06 17:30:55] [vodenka] příkaz: utoc zmutovany potkan
+[2026-05-06 17:31:18] [vodenka] příkaz: vezmi baterie
+[2026-05-06 17:31:22] [vodenka] příkaz: pomoc
+[2026-05-06 17:31:34] [vodenka] příkaz: inventar
+[2026-05-06 17:31:38] [vodenka] příkaz: vloz cip
+[2026-05-06 17:31:46] [vodenka] příkaz: vezmi baterie
+[2026-05-06 17:31:50] [vodenka] příkaz: vyrob paklic
+[2026-05-06 17:32:32] [vodenka] příkaz: inventar
+[2026-05-06 17:32:42] [vodenka] příkaz: pouzij energetak
+[2026-05-06 17:32:51] [vodenka] příkaz: inventar
+[2026-05-06 17:33:05] [vodenka] příkaz: vyrob paklic
+[2026-05-06 17:33:12] [vodenka] příkaz: vyrob kolo
+[2026-05-06 17:33:18] [vodenka] příkaz: vyrob Paklic
+[2026-05-06 17:33:19] [vodenka] příkaz: paklic
+[2026-05-06 17:36:46] Herní svět načten: 12 místností.
+[2026-05-06 17:36:46] CHYBA při načítání receptů: Could not find file '/Users/martinvodenka/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/crafting.json'.
+[2026-05-06 17:36:46] Server spuštěn na portu 8888
+[2026-05-06 17:36:55] Hráč vodenka se přihlásil.
+[2026-05-06 17:36:55] Hráč vodenka se připojil.
+[2026-05-06 17:37:05] [vodenka] příkaz: inventar
+[2026-05-06 17:37:21] [vodenka] příkaz: prozkoumej
+[2026-05-06 17:37:27] [vodenka] příkaz: vezmi baterie
+[2026-05-06 17:37:29] [vodenka] příkaz: inventar
+[2026-05-06 17:37:36] [vodenka] příkaz: vyrob paklic
+[2026-05-06 17:38:38] Herní svět načten: 12 místností.
+[2026-05-06 17:38:38] CHYBA při načítání receptů: Could not find file '/Users/martinvodenka/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/crafting.json'.
+[2026-05-06 17:38:38] Server spuštěn na portu 8888
+[2026-05-06 17:38:50] Vytvořen nový účet: jana
+[2026-05-06 17:38:50] Hráč jana se připojil.
+[2026-05-06 17:38:59] [jana] příkaz: inventar
+[2026-05-06 17:39:03] [jana] příkaz: vezmi drat
+[2026-05-06 17:39:11] [jana] příkaz: jdi ven
+[2026-05-06 17:39:15] [jana] příkaz: jdi zapad
+[2026-05-06 17:39:21] [jana] příkaz: vezmi baterie
+[2026-05-06 17:39:33] [jana] příkaz: utoc zmutovany potkan
+[2026-05-06 17:39:46] [jana] příkaz: utoc zmutovany potkan
+[2026-05-06 17:39:51] [jana] příkaz: prozkoumej
+[2026-05-06 17:39:57] [jana] příkaz: vezmi syrecek
+[2026-05-06 17:40:13] [jana] příkaz: vezmi syreček
+[2026-05-06 17:40:23] [jana] příkaz: jdi vychod
+[2026-05-06 17:40:34] [jana] příkaz: jdi sever
+[2026-05-06 17:40:41] [jana] příkaz: jdi vychod
+[2026-05-06 17:40:46] [jana] příkaz: mluv uklizec
+[2026-05-06 17:40:57] [jana] příkaz: vyrobit paklic
+[2026-05-06 17:41:02] [jana] příkaz: vyrob paklic
+[2026-05-06 17:41:08] [jana] příkaz: inventar
+[2026-05-06 17:44:40] Herní svět načten: 12 místností.
+[2026-05-06 17:44:40] Receptury načteny: 2 receptů.
+[2026-05-06 17:44:40] Dostupný recept: paklic (Suroviny: drat, baterie)
+[2026-05-06 17:44:40] Dostupný recept: molotov (Suroviny: energetak, nuz)
+[2026-05-06 17:44:40] Server spuštěn na portu 8888
+[2026-05-06 17:44:53] Hráč jana se přihlásil.
+[2026-05-06 17:44:53] Hráč jana se připojil.
+[2026-05-06 17:44:59] [jana] příkaz: inventar
+[2026-05-06 17:45:06] [jana] příkaz: vyrob paklic
+[2026-05-06 17:45:33] [jana] příkaz: inventar
+[2026-05-06 17:51:49] Herní svět načten: 12 místností.
+[2026-05-06 17:51:49] Receptury načteny: 2 receptů.
+[2026-05-06 17:51:49] Dostupný recept: paklic (Suroviny: drat, baterie)
+[2026-05-06 17:51:49] Dostupný recept: molotov (Suroviny: energetak, nuz)
+[2026-05-06 17:51:49] Server spuštěn na portu 8888
+[2026-05-06 17:51:57] Hráč jana se přihlásil.
+[2026-05-06 17:51:57] Hráč jana se připojil.
+[2026-05-06 17:52:06] [jana] příkaz: inventar
+[2026-05-06 17:52:13] [jana] příkaz: utoc uklizec josef
+[2026-05-06 17:52:24] [jana] příkaz: utoc uklizec josef
+[2026-05-06 17:52:29] [jana] příkaz: utoc uklizec josef
+[2026-05-06 17:52:36] [jana] příkaz: utoc uklizec josef
+[2026-05-06 17:52:41] [jana] příkaz: utoc uklizec josef
+[2026-05-06 17:52:50] [jana] příkaz: prozkoumej
+[2026-05-06 17:52:58] [jana] příkaz: inventar
+[2026-05-06 17:53:02] [jana] příkaz: vezmi energetak
+[2026-05-06 17:53:08] [jana] příkaz: jdi zapad
+[2026-05-06 17:53:18] [jana] příkaz: jdi nahoru
+[2026-05-06 17:53:34] [jana] příkaz: jdi vychod
+[2026-05-06 17:53:46] [jana] příkaz: utoc bezpecnostni bot
+[2026-05-06 17:53:54] [jana] příkaz: vezmi nuz
+[2026-05-06 17:54:01] [jana] příkaz: utoc bezpecnostni bot
+[2026-05-06 17:54:16] [jana] příkaz: utoc bezpecnostni bot
+[2026-05-06 17:54:23] [jana] příkaz: inventar
+[2026-05-06 17:54:29] [jana] příkaz: vezmi cip
+[2026-05-06 17:54:33] [jana] příkaz: prozkoumej
+[2026-05-06 17:54:40] [jana] příkaz: jdi zapad
+[2026-05-06 17:54:45] [jana] příkaz: jdi sever
+[2026-05-06 17:54:56] [jana] příkaz: mluv sekretarka
+[2026-05-06 17:55:13] [jana] příkaz: jdi zapad
+[2026-05-06 17:55:30] [jana] příkaz: jdi vychod
+[2026-05-06 17:55:35] [jana] příkaz: jdi sever
+[2026-05-06 17:55:48] [jana] příkaz: jdi sever
+[2026-05-06 17:55:56] [jana] příkaz: mluv reditel
+[2026-05-06 17:56:05] [jana] příkaz: utoc reditel
+[2026-05-06 17:56:10] [jana] příkaz: utoc reditel
+[2026-05-06 17:56:15] [jana] příkaz: utoc reditel
+[2026-05-06 17:56:31] [jana] příkaz: inventar
+[2026-05-06 17:56:40] [jana] příkaz: pouzij energetak
+[2026-05-06 17:57:06] [jana] příkaz: vezmi klic_od_vrtulniku
+[2026-05-06 17:57:14] [jana] příkaz: prozkoumej
+[2026-05-06 17:57:20] [jana] příkaz: jdi sever
+[2026-05-06 17:57:33] [jana] příkaz: jdi jih
+[2026-05-06 17:57:43] [jana] příkaz: jdi zapad
+[2026-05-06 17:57:47] [jana] příkaz: vezmi data
+[2026-05-06 17:57:55] [jana] příkaz: inventar
+[2026-05-06 17:58:01] [jana] příkaz: vloz cip
+[2026-05-06 17:58:05] [jana] příkaz: vezmi data
+[2026-05-06 17:58:09] [jana] příkaz: prozkoumej
+[2026-05-06 17:58:16] [jana] příkaz: jdi vychod
+[2026-05-06 17:58:29] [jana] příkaz: vezmi klic
+[2026-05-06 17:58:32] [jana] příkaz: inventar
+[2026-05-06 17:59:01] [jana] příkaz: vloz syreček
+[2026-05-06 17:59:06] [jana] příkaz: prozkoumej
+[2026-05-06 17:59:15] [jana] příkaz: jdi jih
+[2026-05-06 17:59:20] [jana] příkaz: jdi dolu
+[2026-05-06 17:59:26] [jana] příkaz: vloz paklic
+[2026-05-06 17:59:31] [jana] příkaz: jdi nahoru
+[2026-05-06 17:59:46] [jana] příkaz: jdi sever
+[2026-05-06 17:59:55] [jana] příkaz: jdi dolu
+[2026-05-06 17:59:59] [jana] příkaz: vezmi paklic
+[2026-05-06 18:00:02] [jana] příkaz: jdi nahoru
+[2026-05-06 18:00:05] [jana] příkaz: jdi sever
+[2026-05-06 18:00:12] [jana] příkaz: inventar
+[2026-05-06 18:00:24] [jana] příkaz: vezmi klic
+[2026-05-06 18:00:27] [jana] příkaz: vloz data
+[2026-05-06 18:00:31] [jana] příkaz: prozkoumej
+[2026-05-06 18:00:39] [jana] příkaz: jdi sever
+[2026-05-06 18:00:45] [jana] příkaz: jdi sever
+[2026-05-06 18:00:55] [jana] příkaz: jdi vrtulnik
+[2026-05-06 18:01:04] [jana] příkaz: jdi zpet
+[2026-05-06 18:01:11] [jana] příkaz: prozkoumej
+[2026-05-06 18:01:20] [jana] příkaz: vezmi data
+[2026-05-06 18:04:44] Herní svět načten: 12 místností.
+[2026-05-06 18:04:44] Receptury načteny: 2 receptů.
+[2026-05-06 18:04:44] Dostupný recept: paklic (Suroviny: drat, baterie)
+[2026-05-06 18:04:44] Dostupný recept: molotov (Suroviny: energetak, nuz)
+[2026-05-06 18:04:44] Server spuštěn na portu 8888
+[2026-05-06 18:04:51] Hráč jana se přihlásil.
+[2026-05-06 18:04:51] Hráč jana se připojil.
+[2026-05-06 18:04:56] [jana] příkaz: jdi zpet
+[2026-05-06 18:05:08] [jana] příkaz: jdi jih
+[2026-05-06 18:05:18] [jana] příkaz: jdi zapad
+[2026-05-06 18:05:22] [jana] příkaz: vezmi dataa
+[2026-05-06 18:05:25] [jana] příkaz: vezmi data
+[2026-05-06 18:05:29] [jana] příkaz: jdi vychod
+[2026-05-06 18:05:35] [jana] příkaz: jdi sever
+[2026-05-06 18:05:39] [jana] příkaz: jdi sever
+[2026-05-06 18:05:43] [jana] příkaz: inventar
+[2026-05-06 18:05:52] [jana] příkaz: jdi vrtulnik
+[2026-05-06 18:05:52] Hráč jana dokončil hru!
+[2026-05-06 18:23:10] Herní svět načten: 12 místností.
+[2026-05-06 18:23:10] Receptury načteny: 2 receptů.
+[2026-05-06 18:23:10] Server spuštěn na portu 8888
+[2026-05-06 18:23:26] Vytvořen nový účet: nejlepsihrac
+[2026-05-06 18:23:26] Hráč nejlepsihrac se připojil.
+[2026-05-06 18:23:36] [nejlepsihrac] příkaz: vezmi drat
+[2026-05-06 18:24:02] [nejlepsihrac] příkaz: jdi ven
+[2026-05-06 18:24:05] [nejlepsihrac] příkaz: jdi zapad
+[2026-05-06 18:24:14] [nejlepsihrac] příkaz: utoc zmutovany potkan
+[2026-05-06 18:24:22] [nejlepsihrac] příkaz: utoc zmutovany potkan
+[2026-05-06 18:24:28] [nejlepsihrac] příkaz: vezmi baterie
+[2026-05-06 18:24:31] [nejlepsihrac] příkaz: inventar
+[2026-05-06 18:24:43] [nejlepsihrac] příkaz: jdi vychod
+[2026-05-06 18:24:48] [nejlepsihrac] příkaz: jdi sever
+[2026-05-06 18:24:55] [nejlepsihrac] příkaz: jdi vychod
+[2026-05-06 18:25:02] [nejlepsihrac] příkaz: mluv uklizec josef
+[2026-05-06 18:25:17] [nejlepsihrac] příkaz: vezmi energetak
+[2026-05-06 18:25:27] [nejlepsihrac] příkaz: vyrob paklic
+[2026-05-06 18:25:33] [nejlepsihrac] příkaz: prozkoumej
+[2026-05-06 18:25:43] [nejlepsihrac] příkaz: jdi zapad
+[2026-05-06 18:25:52] [nejlepsihrac] příkaz: jdi nahoru
+[2026-05-06 18:26:00] [nejlepsihrac] příkaz: jdi vychod
+[2026-05-06 18:26:24] [nejlepsihrac] příkaz: vezmi nuz
+[2026-05-06 18:26:30] [nejlepsihrac] příkaz: utoc bezpecnostni bot
+[2026-05-06 18:26:37] [nejlepsihrac] příkaz: utoc bezpecnostni bot
+[2026-05-06 18:26:41] [nejlepsihrac] příkaz: vezmi cip
+[2026-05-06 18:26:45] [nejlepsihrac] příkaz: inventar
+[2026-05-06 18:26:50] [nejlepsihrac] příkaz: prozkoumej
+[2026-05-06 18:26:54] [nejlepsihrac] příkaz: jdi zapad
+[2026-05-06 18:26:58] [nejlepsihrac] příkaz: jdi sever
+[2026-05-06 18:27:07] [nejlepsihrac] příkaz: mluv sekretarka
+[2026-05-06 18:27:36] [nejlepsihrac] příkaz: vyrob molotov
+[2026-05-06 18:27:45] [nejlepsihrac] příkaz: jdi zapad
+[2026-05-06 18:27:50] [nejlepsihrac] příkaz: vezmi data
+[2026-05-06 18:27:54] [nejlepsihrac] příkaz: inventar
+[2026-05-06 18:28:03] [nejlepsihrac] příkaz: jdi vychod
+[2026-05-06 18:28:12] [nejlepsihrac] příkaz: jdi sever
+[2026-05-06 18:28:25] [nejlepsihrac] příkaz: jsi sever
+[2026-05-06 18:28:30] [nejlepsihrac] příkaz: jdi sever
+[2026-05-06 18:28:39] [nejlepsihrac] příkaz: hod molotov
+[2026-05-06 18:28:51] [nejlepsihrac] příkaz: utoc reditel
+[2026-05-06 18:28:55] [nejlepsihrac] příkaz: utoc reditel
+[2026-05-06 18:29:02] [nejlepsihrac] příkaz: utoc reditel
+[2026-05-06 18:29:09] [nejlepsihrac] příkaz: prozkoumej
+[2026-05-06 18:29:20] [nejlepsihrac] příkaz: jdi jih
+[2026-05-06 18:29:22] [nejlepsihrac] příkaz: vezmi klic
+[2026-05-06 18:29:27] [nejlepsihrac] příkaz: jdi sever
+[2026-05-06 18:29:31] [nejlepsihrac] příkaz: jdi sever
+[2026-05-06 18:29:45] [nejlepsihrac] příkaz: inventar
+[2026-05-06 18:29:55] [nejlepsihrac] příkaz: jdi vrtulnik
+[2026-05-06 18:29:55] Hráč nejlepsihrac dokončil hru!
+[2026-05-06 18:37:26] Herní svět načten: 12 místností.
+[2026-05-06 18:37:26] Receptury načteny: 2 receptů.
+[2026-05-06 18:37:26] Server spuštěn na portu 8888
+[2026-05-06 18:37:43] Vytvořen nový účet: igor
+[2026-05-06 18:37:43] Hráč igor se připojil.
+[2026-05-06 18:37:47] [igor] příkaz: vezmi drat
+[2026-05-06 18:37:52] [igor] příkaz: jdi ven
+[2026-05-06 18:37:56] [igor] příkaz: jdi zapad
+[2026-05-06 18:37:59] [igor] příkaz: vezmi baterie
+[2026-05-06 18:38:04] [igor] příkaz: vyrob paklic
+[2026-05-06 18:38:09] [igor] příkaz: jdi vychod
+[2026-05-06 18:38:18] [igor] příkaz: jdi sever
+[2026-05-06 18:38:21] [igor] příkaz: jdi nahoru
+[2026-05-06 18:38:26] [igor] příkaz: jdi sever
+[2026-05-06 18:38:39] [igor] příkaz: jdi jih
+[2026-05-06 18:38:48] [igor] příkaz: jdi vychod
+[2026-05-06 18:38:56] [igor] příkaz: jdi sever
+[2026-05-06 18:39:00] [igor] příkaz: vezmi klic
+[2026-05-06 18:39:03] [igor] příkaz: jdi jih
+[2026-05-06 18:39:07] [igor] příkaz: jdi zbrojnice
+[2026-05-06 18:39:12] [igor] příkaz: jdi vychod
+[2026-05-06 18:39:15] [igor] příkaz: vezmi nuz
+[2026-05-06 18:39:20] [igor] příkaz: jdi zapad
+[2026-05-06 18:39:27] [igor] příkaz: jdi sever
+[2026-05-06 18:39:53] [igor] příkaz: mluv sekretarka
+[2026-05-06 18:39:57] [igor] příkaz: inventar
+[2026-05-06 18:40:07] [igor] příkaz: vyrob molotov
+[2026-05-06 18:40:20] [igor] příkaz: jdi zapad
+[2026-05-06 18:40:25] [igor] příkaz: vezmi data
+[2026-05-06 18:40:28] [igor] příkaz: jdi vychod
+[2026-05-06 18:40:38] [igor] příkaz: jdi sever
+[2026-05-06 18:40:43] [igor] příkaz: jdi jih
+[2026-05-06 18:40:47] [igor] příkaz: jdi jih
+[2026-05-06 18:40:54] [igor] příkaz: jdi dolu
+[2026-05-06 18:40:59] [igor] příkaz: jdi vychod
+[2026-05-06 18:41:06] [igor] příkaz: vezmi energetak
+[2026-05-06 18:41:10] [igor] příkaz: jdi zapad
+[2026-05-06 18:41:13] [igor] příkaz: jdi nahoru
+[2026-05-06 18:41:20] [igor] příkaz: jdi sever
+[2026-05-06 18:41:29] [igor] příkaz: vyrob molotov
+[2026-05-06 18:41:34] [igor] příkaz: jdi sever
+[2026-05-06 18:41:39] [igor] příkaz: mluv reditel
+[2026-05-06 18:41:47] [igor] příkaz: utoc reditel
+[2026-05-06 18:41:52] [igor] příkaz: utoc reditel
+[2026-05-06 18:42:00] [igor] příkaz: pomoc
+[2026-05-06 18:42:05] [igor] příkaz: hod molotov
+[2026-05-06 18:42:12] [igor] příkaz: utoc reditel
+[2026-05-06 18:42:21] [igor] příkaz: vezmi klic_od_vrtulniku
+[2026-05-06 18:42:35] [igor] příkaz: odloz klic_od_vrtulniku
+[2026-05-06 18:42:40] [igor] příkaz: prozkoumej
+[2026-05-06 18:42:44] [igor] příkaz: jdi sever
+[2026-05-06 18:42:49] [igor] příkaz: odloz data
+[2026-05-06 18:42:57] [igor] příkaz: vezmi klic_od_vrtulniku
+[2026-05-06 18:43:04] [igor] příkaz: jdi sever
+[2026-05-06 18:43:15] [igor] příkaz: jdi vrtulnik
+[2026-05-06 18:43:21] [igor] příkaz: jdi zpet
+[2026-05-06 18:43:25] [igor] příkaz: vezmi dat
+[2026-05-06 18:43:28] [igor] příkaz: vezmi data
+[2026-05-06 18:43:31] [igor] příkaz: jdi sever
+[2026-05-06 18:43:35] [igor] příkaz: jdi vrtulnik
+[2026-05-06 18:43:35] Hráč igor dokončil hru!
+[2026-05-06 19:45:49] Herní svět načten: 12 místností.
+[2026-05-06 19:45:49] Receptury načteny: 2 receptů.
+[2026-05-06 19:45:49] Server spuštěn na portu 8888
+[2026-05-06 19:46:20] Vytvořen nový účet: UlozenyNetrunner
+[2026-05-06 19:46:20] Hráč UlozenyNetrunner se připojil.
+[2026-05-06 19:46:34] [UlozenyNetrunner] příkaz: vezmi drat
+[2026-05-06 19:46:37] [UlozenyNetrunner] příkaz: jdi ven
+[2026-05-06 19:46:41] [UlozenyNetrunner] příkaz: jdi zapad
+[2026-05-06 19:46:45] [UlozenyNetrunner] příkaz: vezmi baterie
+[2026-05-06 19:46:50] [UlozenyNetrunner] příkaz: jdi vychod
+[2026-05-06 19:46:53] [UlozenyNetrunner] příkaz: vyrob paklic
+[2026-05-06 19:47:01] [UlozenyNetrunner] příkaz: jdi sever
+[2026-05-06 19:47:04] [UlozenyNetrunner] příkaz: jdi nahoru
+[2026-05-06 19:47:08] [UlozenyNetrunner] příkaz: jdi sever
+[2026-05-06 19:47:19] [UlozenyNetrunner] příkaz: jdi zapad
+[2026-05-06 19:47:27] [UlozenyNetrunner] příkaz: vezmi data
+[2026-05-06 19:47:32] [UlozenyNetrunner] příkaz: jdi vychod
+[2026-05-06 19:47:46] [UlozenyNetrunner] příkaz: prozkoumej
+[2026-05-06 19:51:22] Herní svět načten: 12 místností.
+[2026-05-06 19:51:22] Receptury načteny: 2 receptů.
+[2026-05-06 19:51:22] Server spuštěn na portu 8888
+[2026-05-06 19:51:45] Vytvořen nový účet: StaryHacker
+[2026-05-06 19:51:45] Hráč StaryHacker se připojil.

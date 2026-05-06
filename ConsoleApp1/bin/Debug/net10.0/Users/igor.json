@@ -1,0 +1,15 @@
+{
+  "Name": "igor",
+  "PasswordHash": "arhHBeXWle/VMvRivEH/x6BfOgl7h33SuV0WjNnzuT0=",
+  "CurrentRoomId": "vitezstvi",
+  "Inventory": [
+    "paklic",
+    "klic",
+    "klic_od_vrtulniku",
+    "data"
+  ],
+  "MaxInventoryCapacity": 5,
+  "AttackBonus": 0,
+  "HP": 76,
+  "MaxHP": 100
+}

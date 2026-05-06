@@ -1,0 +1,16 @@
+{
+  "Name": "vodenka",
+  "PasswordHash": "F3CWa4UENhGpgH4Zbo85xnuvnuSRpzCDC4ShH8PgTmE=",
+  "CurrentRoomId": "udrzba",
+  "Inventory": [
+    "drat",
+    "energetak",
+    "nuz",
+    "baterie",
+    "baterie"
+  ],
+  "MaxInventoryCapacity": 5,
+  "AttackBonus": 0,
+  "HP": 100,
+  "MaxHP": 100
+}

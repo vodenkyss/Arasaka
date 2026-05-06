@@ -1,0 +1,13 @@
+{
+  "Name": "UlozenyNetrunner",
+  "PasswordHash": "NdI\u002B3bXntPDw0RpEZP/U8jvFGJBiWt8cMc3iXafU84E=",
+  "CurrentRoomId": "open_space",
+  "Inventory": [
+    "paklic",
+    "data"
+  ],
+  "MaxInventoryCapacity": 5,
+  "AttackBonus": 0,
+  "HP": 100,
+  "MaxHP": 100
+}

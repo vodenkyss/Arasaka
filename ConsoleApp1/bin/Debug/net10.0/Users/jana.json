@@ -1,0 +1,16 @@
+{
+  "Name": "jana",
+  "PasswordHash": "vkgNMhDlbnhZR5QP7dAHrU6wSbhJ5d7wQd2QWVzCIKI=",
+  "CurrentRoomId": "vitezstvi",
+  "Inventory": [
+    "nuz",
+    "klic_od_vrtulniku",
+    "paklic",
+    "klic",
+    "data"
+  ],
+  "MaxInventoryCapacity": 5,
+  "AttackBonus": 0,
+  "HP": 89,
+  "MaxHP": 100
+}

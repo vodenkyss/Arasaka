@@ -1,0 +1,15 @@
+{
+  "Name": "nejlepsihrac",
+  "PasswordHash": "bd5uGv\u002BuVQb\u002B/XF4ia6CScAKy7QfJ/1UnLq7LBmykEw=",
+  "CurrentRoomId": "vitezstvi",
+  "Inventory": [
+    "paklic",
+    "cip",
+    "data",
+    "klic"
+  ],
+  "MaxInventoryCapacity": 5,
+  "AttackBonus": 0,
+  "HP": 65,
+  "MaxHP": 100
+}
